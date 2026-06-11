@@ -1,0 +1,16 @@
+{
+  "name": "Pink Whale Planner",
+  "short_name": "Whale Planner",
+  "description": "My Freelance Tax & Income Tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF5F7",
+  "theme_color": "#F472B6",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
